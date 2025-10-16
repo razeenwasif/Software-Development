@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Radiant Aurora palette for a premium look -->
+    <color name="md_theme_light_primary">#FFFFFF</color>
+    <color name="md_theme_light_onPrimary">#000000</color>
+    <color name="md_theme_light_primaryContainer">#F0F0F0</color>
+    <color name="md_theme_light_onPrimaryContainer">#0D1457</color>
+    <color name="md_theme_light_secondary">#007AFF</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_surfaceVariant">#F5F5F5</color>
+    <color name="md_theme_light_onSurface">#000000</color>
+    <color name="md_theme_light_onSurfaceVariant">#4D5070</color>
+    <color name="md_theme_light_background">#FFFFFF</color>
+    <color name="md_theme_light_onBackground">#000000</color>
+    <color name="md_theme_light_outline">#E0E0E0</color>
+    <color name="md_theme_light_surfaceTint">#FFFFFF</color>
+
+    <color name="md_theme_dark_primary">#BEC2FF</color>
+    <color name="md_theme_dark_onPrimary">#12165D</color>
+    <color name="md_theme_dark_primaryContainer">#373B8E</color>
+    <color name="md_theme_dark_onPrimaryContainer">#E7E9FF</color>
+    <color name="md_theme_dark_secondary">#40E3D2</color>
+    <color name="md_theme_dark_onSecondary">#002723</color>
+    <color name="md_theme_dark_surface">#080C22</color>
+    <color name="md_theme_dark_surfaceVariant">#11142D</color>
+    <color name="md_theme_dark_onSurface">#E2E5FF</color>
+    <color name="md_theme_dark_onSurfaceVariant">#969AC6</color>
+    <color name="md_theme_dark_background">#040719</color>
+    <color name="md_theme_dark_onBackground">#D8DCFF</color>
+    <color name="md_theme_dark_outline">#484D77</color>
+    <color name="md_theme_dark_surfaceTint">#BEC2FF</color>
+
+    <!-- Supporting gradients -->
+    <color name="gradient_top_light">#FFFFFF</color>
+    <color name="gradient_bottom_light">#FFFFFF</color>
+    <color name="gradient_top_dark">#050817</color>
+    <color name="gradient_bottom_dark">#0E1840</color>
+
+    <!-- Elevated surfaces -->
+    <color name="card_overlay_light">#80FFFFFF</color>
+    <color name="card_overlay_dark">#B31A1F33</color>
+</resources>

@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">2100</string>
+    <string name="navigation_open_drawer">Open navigation drawer</string>
+    <string name="navigation_close_drawer">Close navigation drawer</string>
+    <string name="unknown_user">Unknown user</string>
+    <string name="unknown_author">Unknown author</string>
+    <string name="no_posts_found">No Posts Found</string>
+    <string name="reaction_label_placeholder">Reaction</string>
+    <string name="reaction_count_placeholder">0 reactions</string>
+    <string name="reaction_activity_title">Reactions</string>
+    <string name="censored_message_label">Message</string>
+    <string name="empty_reactions">No reactions yet</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="view_reactions">View reactions</string>
+    <string name="search_users">Search users</string>
+    <string name="search_hint">Enter username or partial name</string>
+    <string name="no_users_found">No matching users</string>
+    <string name="view_posts">View posts</string>
+    <string name="user_posts_title">%1$s&#x2019;s posts</string>
+    <string name="add_reaction">Add reaction</string>
+    <string name="choose_reaction">Choose a reaction</string>
+    <string name="reaction_added">Reaction %1$s added</string>
+    <string name="dark_mode_section_title">Dark mode</string>
+    <string name="dark_mode_follow_system">Follow system setting</string>
+    <string name="dark_mode_enable">Enable dark mode</string>
+    <string name="main_toolbar_title">Community Feed</string>
+    <string name="main_toolbar_subtitle">Curated knowledge snapshots</string>
+    <string name="main_hero_title">Community pulse</string>
+    <string name="main_hero_subtitle">Fresh drops daily</string>
+    <string name="main_chip_trending">Trending now</string>
+    <string name="main_chip_patterns">Design patterns</string>
+    <string name="main_chip_live">Live collabs</string>
+    <string name="main_button_explore">Explore feed</string>
+    <string name="main_select_tag_hint">Select a tag to explore</string>
+    <plurals name="post_meta_responses">
+        <item quantity="one">%1$d contribution &#8226; tap to open</item>
+        <item quantity="other">%1$d contributions &#8226; tap to open</item>
+    </plurals>
+    <string name="post_meta_no_responses">No replies yet &#8226; be the first</string>
+    <string name="post_author_avatar_description">Avatar badge for %1$s</string>
+    <string name="header_role_label">Lead curator</string>
+    <string name="post_toolbar_title">Thread insights</string>
+    <string name="post_toolbar_subtitle">Every reply in context</string>
+    <string name="post_viewer_close">Close thread</string>
+    <string name="post_author_label">Thread created by %1$s</string>
+    <string name="settings_toolbar_title">Experience</string>
+    <string name="settings_toolbar_subtitle">Dial in your comfort</string>
+    <string name="settings_hero_title">Tailored ambience</string>
+    <string name="user_search_toolbar_title">Discover minds</string>
+    <string name="user_search_toolbar_subtitle">Invite new collaborators</string>
+    <string name="user_search_hero_title">Precision matching</string>
+    <string name="user_posts_subtitle">Follower spotlight</string>
+    <string name="user_posts_headline">%1$s\u2019s trail</string>
+    <string name="reactions_toolbar_subtitle">Realtime sentiment</string>
+    <string name="post_topic">Post Topic</string>
+    <string name="create_post">Create post</string>
+    <string name="guest_username">Guest</string>
+    <string-array name="tags_array">
+        <item>Design Patterns</item>
+        <item>Live Collabs</item>
+        <item>General</item>
+    </string-array>
+</resources>

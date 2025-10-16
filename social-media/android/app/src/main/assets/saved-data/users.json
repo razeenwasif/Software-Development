@@ -1,0 +1,26 @@
+[{
+  "id": "26f1dacc-3b0e-4f2a-9096-28c3ab7b6413",
+  "role": "Member",
+  "username": "aurora",
+  "password": "secret1"
+},{
+  "id": "5a95eb0d-2c04-4cd0-a753-8d7d4d0b6b0f",
+  "role": "Member",
+  "username": "bruno",
+  "password": "secret2"
+},{
+  "id": "9b5d1416-9d13-4a74-a829-bfa4f599dc6b",
+  "role": "Member",
+  "username": "cynthia",
+  "password": "secret3"
+},{
+  "id": "e8a1f4a0-b78d-4ab3-b0b1-579eb3da9964",
+  "role": "Member",
+  "username": "diego",
+  "password": "secret4"
+},{
+  "id": "1245cbd9-8c7a-4df6-bf63-60d098fdb992",
+  "role": "Member",
+  "username": "eloise",
+  "password": "secret5"
+}]

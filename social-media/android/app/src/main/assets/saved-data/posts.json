@@ -1,0 +1,46 @@
+[
+  {
+    "id": "d4b93f1e-1660-4262-9640-6c2dfdb47a94",
+    "poster": "26f1dacc-3b0e-4f2a-9096-28c3ab7b6413",
+    "topic": "Lambda calculus cheat sheet",
+    "messages": {}
+  },
+  {
+    "id": "8d68f6bc-e3ef-4ffe-9cd3-c6110c0a7484",
+    "poster": "5a95eb0d-2c04-4cd0-a753-8d7d4d0b6b0f",
+    "topic": "Debugging room booking APIs",
+    "messages": {}
+  },
+  {
+    "id": "7033d5f2-5b9a-46fb-b7c6-3b67740eb658",
+    "poster": "9b5d1416-9d13-4a74-a829-bfa4f599dc6b",
+    "topic": "Exam prep: interpretation vs compilation",
+    "messages": {}
+  },
+  {
+    "id": "e830f8fd-6f37-4070-bd6f-80a13b8242f3",
+    "poster": "e8a1f4a0-b78d-4ab3-b0b1-579eb3da9964",
+    "topic": "State machines in real projects",
+    "messages": {}
+  },
+  {
+    "id": "f1a6b798-c8c0-4b8d-8d6d-6636f47bfadf",
+    "poster": "1245cbd9-8c7a-4df6-bf63-60d098fdb992",
+    "topic": "Favourite testing heuristics",
+    "messages": {}
+  },
+  {
+    "id": "b4ecf6c3-5c8c-4f72-92f5-8f8002c3a5e9",
+    "poster": "5a95eb0d-2c04-4cd0-a753-8d7d4d0b6b0f",
+    "topic": "Design patterns for async flows",
+    "tag": "design patterns",
+    "messages": {}
+  },
+  {
+    "id": "f0f0f0f0-f0f0-f0f0-f0f0-f0f0f0f0f0f0",
+    "poster": "26f1dacc-3b0e-4f2a-9096-28c3ab7b6413",
+    "topic": "SOLID principles in Android",
+    "tag": "design patterns",
+    "messages": {}
+  }
+]

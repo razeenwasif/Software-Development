@@ -1,0 +1,37 @@
+[
+  {
+    "id": "f0c1af87-098f-42dd-bf99-5bf51c1a2078",
+    "user": "5a95eb0d-2c04-4cd0-a753-8d7d4d0b6b0f",
+    "message": "9f1c3b72-f85d-4e1e-8ade-a25f3e0d2d92",
+    "type": "LOVE",
+    "timestamp": 1710000050000
+  },
+  {
+    "id": "2cba3e6d-930d-4e76-83f5-0dc0f7e55b61",
+    "user": "9b5d1416-9d13-4a74-a829-bfa4f599dc6b",
+    "message": "07a4ef02-8511-41d0-a10b-502d6f9f5f7b",
+    "type": "ANGRY",
+    "timestamp": 1710003650000
+  },
+  {
+    "id": "ee0a9b0f-20e0-4faf-ba3e-f567e39d21da",
+    "user": "26f1dacc-3b0e-4f2a-9096-28c3ab7b6413",
+    "message": "c0bf8da1-a002-4170-9306-431c6931bfa7",
+    "type": "LIKE",
+    "timestamp": 1710007250000
+  },
+  {
+    "id": "9e9cb4b9-fd58-4922-9b7e-0602e0abe6b8",
+    "user": "1245cbd9-8c7a-4df6-bf63-60d098fdb992",
+    "message": "bdcf8d2f-5f74-48af-80b2-74f0ca1af4a0",
+    "type": "SURPRISE",
+    "timestamp": 1710010860000
+  },
+  {
+    "id": "503dc632-5999-4f2e-9662-94c172066f0e",
+    "user": "e8a1f4a0-b78d-4ab3-b0b1-579eb3da9964",
+    "message": "b6f8ff76-1e3c-4f1e-868d-527807782aa4",
+    "type": "HAPPY",
+    "timestamp": 1710014450000
+  }
+]

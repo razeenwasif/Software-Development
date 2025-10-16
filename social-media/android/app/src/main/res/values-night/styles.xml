@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.COMP2100.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">26dp</item>
+        <item name="strokeColor">?attr/colorOutline</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.COMP2100.Medium</item>
+        <item name="cardElevation">0dp</item>
+    </style>
+</resources>

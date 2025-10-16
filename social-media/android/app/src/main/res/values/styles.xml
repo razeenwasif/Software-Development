@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.COMP2100.Toolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:elevation">0dp</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+        <item name="titleTextColor">?attr/colorOnSurface</item>
+        <item name="subtitleTextColor">?attr/colorOnSurfaceVariant</item>
+        <item name="navigationIconTint">?attr/colorOnSurface</item>
+    </style>
+
+    <style name="ShapeAppearance.COMP2100.Medium" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+
+    <style name="Widget.COMP2100.PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="backgroundTint">?attr/colorPrimary</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.COMP2100.Medium</item>
+        <item name="rippleColor">?attr/colorPrimaryContainer</item>
+    </style>
+
+    <style name="Widget.COMP2100.OutlinedButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.01</item>
+        <item name="strokeColor">?attr/colorPrimary</item>
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.COMP2100.Medium</item>
+    </style>
+
+    <style name="Widget.COMP2100.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">26dp</item>
+        <item name="strokeColor">?attr/colorOutline</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.COMP2100.Medium</item>
+        <item name="cardElevation">0dp</item>
+    </style>
+
+    <style name="Widget.COMP2100.AssistChip" parent="Widget.MaterialComponents.Chip.Action">
+        <item name="shapeAppearance">@style/ShapeAppearance.COMP2100.Medium</item>
+        <item name="chipBackgroundColor">?attr/colorSecondary</item>
+        <item name="chipIconTint">?attr/colorOnSecondary</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+    </style>
+
+    <style name="Widget.COMP2100.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="shapeAppearance">@style/ShapeAppearance.COMP2100.Medium</item>
+        <item name="hintTextColor">?attr/colorOnSurfaceVariant</item>
+        <item name="boxBackgroundColor">?attr/colorSurface</item>
+        <item name="boxStrokeColor">?attr/colorPrimary</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+    </style>
+
+    <style name="TextAppearance.COMP2100.Display" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="android:letterSpacing">0.01</item>
+    </style>
+
+    <style name="TextAppearance.COMP2100.TitleAccent" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">?attr/colorSecondary</item>
+        <item name="android:letterSpacing">0.015</item>
+    </style>
+</resources>
